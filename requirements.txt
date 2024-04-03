@@ -1,0 +1,9 @@
+openai==0.28
+langchain
+faiss-cpu
+streamlit
+chromadb
+python-dotenv
+pypdf
+pymongo
+tiktoken
